@@ -18,7 +18,7 @@ struct ContentView: View {
                            height: 120)
                     .clipShape(.circle)
                 
-                Text("Dalia, Nada's friend, \(24)")
+                Text("Dalia, Nada's friend, \("677777")
                     .font(.title2)
                     .fontWeight(.semibold)
                 
